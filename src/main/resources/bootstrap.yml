@@ -8,8 +8,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/IngWMC/BC30.git
-          searchPaths: config-data
+          uri: https://github.com/IngWMC/config-data.git
+          #searchPaths: config-data
           username: ingwmc
           password: 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
           
