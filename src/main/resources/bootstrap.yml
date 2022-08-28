@@ -11,7 +11,7 @@ spring:
           uri: https://github.com/IngWMC/config-data.git
           #searchPaths: config-data
           username: ingwmc
-          password: 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
+          password: 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
           
   # Credenciales para que se conecten al config-server
   security:
